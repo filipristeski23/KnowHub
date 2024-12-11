@@ -1,0 +1,6 @@
+@KnowHubApp.Server_HostAddress = http://localhost:5131
+
+GET {{KnowHubApp.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
